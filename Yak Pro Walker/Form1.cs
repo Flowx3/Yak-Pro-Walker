@@ -38,6 +38,8 @@ namespace Yak_Pro_Walker
                 System.Diagnostics.Process.Start(textBox3.Text, $"{textBox2.Text} {fileName}");
                 listBox1.Items.Add(fileName);
             }
+
+            MessageBox.Show("Finished with all files!");
         }
 
         private void button2_Click(object sender, EventArgs e)

@@ -88,10 +88,10 @@
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(13, 161);
+            this.listBox1.Location = new System.Drawing.Point(4, 161);
             this.listBox1.Name = "listBox1";
             this.listBox1.ScrollAlwaysVisible = true;
-            this.listBox1.Size = new System.Drawing.Size(753, 212);
+            this.listBox1.Size = new System.Drawing.Size(762, 212);
             this.listBox1.TabIndex = 5;
             // 
             // textBox3
@@ -158,7 +158,7 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Yak Pro Walker";
             this.ResumeLayout(false);
             this.PerformLayout();
 
